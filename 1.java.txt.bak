@@ -4,11 +4,13 @@ int a=10;
 int b=20;
 String name="vinodh";
 int c=30;
-<<<<<<< HEAD
 float f1=10.0f;
-=======
 byte a=100;
->>>>>>> 39dfa2f3c3b27516800c6611d8d3f1884932d042
+<<<<<<< HEAD
+"raju"
+=======
+"Deva"
+>>>>>>> 60f3e500f954d2acdc77ff8dfadcf5800d679966
 public static void main(String[]args){
 Vinodh v1=new Vinodh();
 

@@ -1,6 +1,11 @@
 class Vinodh{
 
-
+102 jira
+==========
+public void m2(){
+int a=10;
+int b=20;
+}
 public static void main(String[]args){
 Vinodh v1=new Vinodh();
 
@@ -11,4 +16,8 @@ Stystem.out.println(v2.b);
 Stystem.out.println("hello world");
 
 }
+//jira 101
+public void m1(){
+int i=10;
+int j=20
 }

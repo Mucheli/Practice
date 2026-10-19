@@ -16,4 +16,8 @@ Stystem.out.println(v2.b);
 Stystem.out.println("hello world");
 
 }
+//jira 101
+public void m1(){
+int i=10;
+int j=20
 }

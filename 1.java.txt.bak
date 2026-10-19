@@ -6,11 +6,8 @@ String name="vinodh";
 int c=30;
 float f1=10.0f;
 byte a=100;
-<<<<<<< HEAD
 "raju"
-=======
 "Deva"
->>>>>>> 60f3e500f954d2acdc77ff8dfadcf5800d679966
 public static void main(String[]args){
 Vinodh v1=new Vinodh();
 

@@ -2,6 +2,7 @@ class Vinodh{
 
 int a=10;
 int b=20;
+String name="vinodh";
 public static void main(String[]args){
 Vinodh v1=new Vinodh();
 

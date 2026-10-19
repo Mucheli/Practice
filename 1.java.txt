@@ -1,13 +1,6 @@
 class Vinodh{
 
-int a=10;
-int b=20;
-String name="vinodh";
-int c=30;
-float f1=10.0f;
-byte a=100;
-"raju"
-"Deva"
+
 public static void main(String[]args){
 Vinodh v1=new Vinodh();
 

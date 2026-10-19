@@ -1,0 +1,22 @@
+class Vinodh{
+
+int a=10;
+int b=20;
+String name="vinodh";
+int c=30;
+<<<<<<< HEAD
+float f1=10.0f;
+=======
+byte a=100;
+>>>>>>> 39dfa2f3c3b27516800c6611d8d3f1884932d042
+public static void main(String[]args){
+Vinodh v1=new Vinodh();
+
+Stystem.out.println(v1.a);
+
+Stystem.out.println(v2.b);
+
+Stystem.out.println("hello world");
+
+}
+}

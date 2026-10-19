@@ -1,5 +1,15 @@
 class Vinodh{
+
+int a=10;
+int b=20;
 public static void main(String[]args){
+Vinodh v1=new Vinodh();
+
+Stystem.out.println(v1.a);
+
+Stystem.out.println(v2.b);
+
 Stystem.out.println("hello world");
+
 }
 }
